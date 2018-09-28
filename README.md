@@ -1,9 +1,9 @@
-# My_Notebook
+# 好书好文章记录
 Good article record！
 =
-hello
+好读书，读好书！
 -
-#你好啊
+
 
 
 ![image](https://github.com/ninjaxu/My_Notebook/blob/master/Image/readbook.jpg)
